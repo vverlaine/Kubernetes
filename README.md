@@ -1,5 +1,6 @@
 # Kubernetes
 ## Proyecto de Sistemas Operativo II - Universidad Mariano Galvez
+### Victor Manuel Verlaine Gutierrez 3190-17-15751
 
 ### Arquitectura
 Inventario de servidores: 

@@ -1,2 +1,2 @@
 # Kubernetes
-Proyecto de Sistemas Operativos II
+## Proyecto de Sistemas Operativo II - Universidad Mariano Galvez
